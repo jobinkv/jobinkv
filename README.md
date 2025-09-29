@@ -1,7 +1,7 @@
 - 👋 Hi, I’m [Jobin K.V.](https://jobinkv.github.io/)
 - 👀 I’m interested Computer vision and Document image analysis
-- 🌱 I’m currently doing my Ph.D
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I compleated my P.h.D FROM IIIT Hyderabad.
+- 💞️ I'm now working as GenAI Engineer at bourntec solutions
 - 📫 How to reach me Mail to jobin.kv@research.iiit.ac.in
 
 <!---
